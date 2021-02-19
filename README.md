@@ -1,7 +1,10 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+   I created different screens for the app
+   I  build the User Interface / layout for each screen
+   I showed a list of similar items (each item has a movie image, title, and description)
+   I retrieve all the information needed to display all of this data.
 
 ---
 
@@ -22,12 +25,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `Flixster.gif`. Make sure the gif actually renders and animates when viewing this README.
+`TODO:// `Flixster.gif`. 
 
 <img src="Flixster.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I encountered a problem when I was trying to login on Github through AndroidStudio
 
 ### Open-source libraries used
 
