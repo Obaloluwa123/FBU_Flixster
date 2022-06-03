@@ -46,11 +46,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 -[]Check the /movie/{movie_id}/videos endpoint API docs
 -[]Endpoint will provide a video "key" such as "key": "SUXWAEX2jlg" which can be used to construct a YouTube video URL such as  https://www.youtube.com/watch?v=SUXWAEX2jlg
 
-### App Walkthough GIF
-`TODO:// `Flixster.gif`. 
-
-<img src="Flixster.gif" width=250><br>
-
 ### Notes
 I encountered a problem when I was trying to login on Github through AndroidStudio
 
